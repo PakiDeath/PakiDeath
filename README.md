@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PakiDeath
+- 👋 Hi, I’m @runWidme, a Cyber Security Consultant hoping to make an impact!
 - 👀 I’m interested in ... Cybersecurity. I'll keep note of all the info and useful information I can in this repository for later use. I'll also list my technical projects hoping that it will be useful for someone in the future
 - 🌱 I’m currently learning ... Anything I can
 - 💞️ I’m looking to collaborate on ... finding ways to defend from cyber criminals
