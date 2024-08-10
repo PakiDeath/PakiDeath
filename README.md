@@ -5,7 +5,7 @@
 - 📫 How to reach me ... [<img src="https://github.com/PakiDeath/PakiDeath/blob/main/download.png" width="50">](https://www.linkedin.com/in/pasquale-bernardo-0b9279236/)
 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... When I was little my PC got infected by a worm that rendered it completely unusable, linking to xxx sites when clicking and then becoming completely unresponsive! This is what started my passion (or terror, depending on your point of you) for Cyber Security
+- ⚡ Fun fact: ... When I was little my PC got infected by a worm that rendered it completely unusable, linking to xxx sites when clicking and then becoming completely unresponsive! This is what started my passion (or terror, depending on your point of view) for Cyber Security
 <!---
 PakiDeath/PakiDeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
